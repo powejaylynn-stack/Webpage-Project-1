@@ -62,7 +62,9 @@ hr {
  */
 
 pre {
-  font-family: monospace, monospace; /* 1 */
+  font-family: "Pangolin", cursive;
+  font-weight: 200;
+  font-style: normal; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -105,7 +107,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace; /* 1 */
+  font-family: Arial, Helvetica, sans-serif; /* 1 */
   font-size: 1em; /* 2 */
 }
 
