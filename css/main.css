@@ -18,6 +18,12 @@ h1 {
     text-align-last: center;
 }
 
+.I-Videos { 
+    text-align: center;
+    font-size: 20px;
+    color:#006581
+}
+
 h2 {
     color: #ffea00;
     text-align: center;
