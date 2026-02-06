@@ -13,18 +13,27 @@ body {
 
 h1 {
     color: #08b7e8;
+    font-size: 5em;
+    margin: 0.25em 0;
+    text-align-last: center;
 }
 
 h2 {
     color: #ffea00;
     text-align: center;
+    font-size: 35px;
+    margin: 2em;
 }
 
 img {
-    width: 250px;
-    margin-right: 16px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: list-item;
 }
+
 
 p {
     text-align: center;
+    display: block;
 }
