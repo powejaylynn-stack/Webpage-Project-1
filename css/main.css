@@ -11,8 +11,20 @@ body {
 }
 
 
-div my-h1{ 
-    text-align: center;
-    color: rgb(50, 159, 255);
+h1 {
+    color: #08b7e8;
+}
 
+h2 {
+    color: #ffea00;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    margin-right: 16px;
+}
+
+p {
+    text-align: center;
 }
