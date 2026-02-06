@@ -36,4 +36,5 @@ img {
 p {
     text-align: center;
     display: block;
+    border: 3px rgb(255, 138, 189);
 }
